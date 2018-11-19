@@ -2,7 +2,7 @@
   "name": "promiseee",
   "version": "1.0.0",
   "description": "A simple promise implemented by [Promises/A+](https://promisesaplus.com/)",
-  "main": "Promiseee.js",
+  "main": "./src/Promiseee.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
