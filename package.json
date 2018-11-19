@@ -1,0 +1,27 @@
+{
+  "name": "promiseee",
+  "version": "1.0.0",
+  "description": "A simple promise implemented by [Promises/A+](https://promisesaplus.com/)",
+  "main": "Promiseee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazysheep666/Promiseee.git"
+  },
+  "author": "lazysheep666",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazysheep666/Promiseee/issues"
+  },
+  "homepage": "https://github.com/lazysheep666/Promiseee#readme",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
